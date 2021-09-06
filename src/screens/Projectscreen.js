@@ -5,8 +5,8 @@ const Projectscreen = () => {
     return(
         <div id='projects'>
             <div>
-                <h1 class='container text-center text-4xl font-bold text-gray-800 mt-12'>Projects</h1>
-                <h1 class='container text-center text-lg font-bold text-gray-800'>Here are my Recent works.....</h1>
+                <h1 class='container mb-3 text-center text-5xl font-bold text-white mt-12'>Projects</h1>
+                <h1 class='container text-center text-xl font-bold text-white'>Here are my Recent works...</h1>
                     <div class='mt-12 text-center grid grid-cols-3 gap-14 mr-12'>
                         <div>
                             <ProjectCard
@@ -40,7 +40,7 @@ const Projectscreen = () => {
                         </div>
                         <div>
                             <ProjectCard
-                                title="Chatting Room"
+                                title="Chit Chat"
                                 description="Workspace to share resources and hangout with friends. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
                             />
                         </div>

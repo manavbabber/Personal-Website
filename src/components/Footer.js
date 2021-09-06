@@ -8,7 +8,8 @@ const Footer = () => {
                 bottom:'0px',
                 height:'30px',
                 width:'100%',
-                backgroundColor:'#3498DB'
+                backgroundColor:'black'
+                // backgroundColor:'#3498DB'
         }}>
             <ul className='flex justify-center'>
                 <a href='https://github.com/manavbabber' >
