@@ -1,5 +1,4 @@
 import React from 'react';
-import Footer from '../components/Footer';
 import TypeWriter from '../UI/Typewriter/Typewriter';
 import Aboutscreen from './Aboutscreen';
 import Projectscreen from './Projectscreen';
@@ -38,7 +37,7 @@ const Homescreen = (props) => {
                     <KeepInTouch />
                 </div>
             </div>
-            <Footer />
+
         </div>
         
     );

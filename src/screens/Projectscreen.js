@@ -11,7 +11,7 @@ const Projectscreen = () => {
                         <div>
                             <ProjectCard
                                 title="MS Hope"
-                                description="MB Shop is an Ecommerce Platform built with MERN and it contains some great features like :- Different screen for admins, Authorization using Json Web Token, File Uploader Option, Search Bar etc"
+                                description="MB Shop is an Decoration Based Ecommerce Platform built with MERN and it contains some great features like :- Different screen for admins, Authorization using Json Web Token, File Uploader Option, Search Bar etc"
                             />
                         </div>
                         <div>
