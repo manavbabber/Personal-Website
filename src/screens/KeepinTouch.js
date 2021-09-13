@@ -15,13 +15,13 @@ const KeepInTouch = () => {
                 
                 <div class='sm:col-span-2 md:col-span-1'>
                     <div>
-                        <input type='email' class='mt-9 mb-7 rounded-md p-2 sm:w-96 bg-gray-900 '  placeholder='Email Address'></input>
+                        <input type='email' class='mt-9 mb-7 rounded-md p-2 sm:w-96' style={{backgroundColor:'rgb(31,30,30)'}}   placeholder='Email Address'></input>
                     </div>
                     <div>
-                        <textarea placeholder='Message' class='sm:w-96 p-2 bg-gray-900'></textarea>
+                        <textarea placeholder='Message' class='sm:w-96 p-2' style={{backgroundColor:'rgb(31,30,30)'}}></textarea>
                     </div>
                     <div>
-                        <button class='mt-6 rounded-full sm:w-96 bg-gray-900'>
+                        <button class='mt-6 rounded-full sm:w-96' style={{backgroundColor:'rgb(31,30,30)'}}>
                             Send Message
                         </button>
                     </div>
