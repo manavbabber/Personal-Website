@@ -70,7 +70,7 @@ const Skillscreen = () => {
   </div>
   <div class='border-b-2 mb-12 mt-12'></div>
     <div class='ml-4 text-white container flex justify-center'>
-      <GitHubCalendar username="bradtraversy"/>
+      <GitHubCalendar username="manavbabber"/>
     </div>
   </div>
   );
